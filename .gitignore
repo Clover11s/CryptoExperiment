@@ -1,0 +1,10 @@
+# .NET 编译生成目录
+bin/
+obj/
+.vs/
+*.user
+
+# 实验大文件目录 
+data/
+CryptoMathDemo/bin/
+CryptoMathDemo/obj/

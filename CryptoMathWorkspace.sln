@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoMathLib", "CryptoMathLib.csproj", "{A973F10B-7E13-4AC3-8CD2-A8EB9B4DEBCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoMathDemo", "CryptoMathDemo\CryptoMathDemo.csproj", "{8969A482-D48A-4418-8D26-519E07D65406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A973F10B-7E13-4AC3-8CD2-A8EB9B4DEBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A973F10B-7E13-4AC3-8CD2-A8EB9B4DEBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A973F10B-7E13-4AC3-8CD2-A8EB9B4DEBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A973F10B-7E13-4AC3-8CD2-A8EB9B4DEBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8969A482-D48A-4418-8D26-519E07D65406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8969A482-D48A-4418-8D26-519E07D65406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8969A482-D48A-4418-8D26-519E07D65406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8969A482-D48A-4418-8D26-519E07D65406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
